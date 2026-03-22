@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.11ceb182-f99c-4c81-b5bd-d17f18aaff3b",
+  "RepoID": "dv.repo.2dae8631-ea06-4eb7-9a11-a51581f33b69",
+  "Path": "D:\\Inbox",
+  "AccountID": "Google_114392376852518344567",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.14",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "Inbox",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
