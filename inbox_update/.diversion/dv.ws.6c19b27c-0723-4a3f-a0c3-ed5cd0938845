@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.6c19b27c-0723-4a3f-a0c3-ed5cd0938845",
+  "RepoID": "dv.repo.8c925459-4b13-40d9-aaf8-a0d71ec08bed",
+  "Path": "C:\\Users\\acker\\Desktop\\Inbox_from_Hell_updated-001\\inbox_update",
+  "AccountID": "Google_115468304526269605932",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "inbox_update",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
